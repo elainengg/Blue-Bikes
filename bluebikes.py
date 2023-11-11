@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Elaine Ng
-DS 2000
-Homework 7
 November 4, 2022
 
 A program that reads the data of blue bikes in the last week of September
